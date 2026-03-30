@@ -1,7 +1,7 @@
 # 💄 Cosmetics KPI Analysis
 ## 📊 Overview 
 This project analyzes cosmetics sales data to uncover key business insights and performance trends.
-🎯 Objectives
+## 🎯 Objectives
 - Identify top-performing products
 - Analyze revenue by country
 - Understand sales trends over time
