@@ -18,3 +18,11 @@ This project analyzes cosmetics sales data to uncover key business insights and 
 ![Dashboard](https://github.com/sheytrimble/cosmetics-kpi-analysis/raw/main/Cosmetics%20KPI%20Analysis.png)
 ## 📁 Dataset
 Cosmetics sales dataset (2022)  
+## ❓Key Business Questions 
+- Which products generate the nost revenue?
+- Which countries contribute the most to overall sales?
+- How have sales trends changed over time?
+## 💡 Recommendations 
+- Focus Marketing efforts on top-performing products
+- Invest more in high-revenue countries 
+- Monitor sales trends to identify growth opportunities 
